@@ -1,4 +1,4 @@
-Project Title: Credit Card Fraud Detection
+Project Title: Credit Card Fraud Detection using machine learning
 
 Overview:
 This project focuses on developing a robust fraud detection model for the banking sector, addressing ethical challenges and the technical difficulty of imbalanced datasets. The goal is to create an efficient approach to identify fraudulent transactions using consumers' transaction history.
